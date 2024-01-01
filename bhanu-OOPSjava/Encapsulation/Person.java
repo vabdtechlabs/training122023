@@ -1,4 +1,4 @@
-// Read-only class using encapsulation
+// Write-only class using encapsulation
 // Example of encapsulation that has only setter methods.
 class Person {
 
