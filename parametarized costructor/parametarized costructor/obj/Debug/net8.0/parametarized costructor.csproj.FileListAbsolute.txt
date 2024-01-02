@@ -1,0 +1,14 @@
+E:\sample codes\parametarized costructor\parametarized costructor\bin\Debug\net8.0\parametarized costructor.exe
+E:\sample codes\parametarized costructor\parametarized costructor\bin\Debug\net8.0\parametarized costructor.deps.json
+E:\sample codes\parametarized costructor\parametarized costructor\bin\Debug\net8.0\parametarized costructor.runtimeconfig.json
+E:\sample codes\parametarized costructor\parametarized costructor\bin\Debug\net8.0\parametarized costructor.dll
+E:\sample codes\parametarized costructor\parametarized costructor\bin\Debug\net8.0\parametarized costructor.pdb
+E:\sample codes\parametarized costructor\parametarized costructor\obj\Debug\net8.0\parametarized costructor.GeneratedMSBuildEditorConfig.editorconfig
+E:\sample codes\parametarized costructor\parametarized costructor\obj\Debug\net8.0\parametarized costructor.AssemblyInfoInputs.cache
+E:\sample codes\parametarized costructor\parametarized costructor\obj\Debug\net8.0\parametarized costructor.AssemblyInfo.cs
+E:\sample codes\parametarized costructor\parametarized costructor\obj\Debug\net8.0\parametarized costructor.csproj.CoreCompileInputs.cache
+E:\sample codes\parametarized costructor\parametarized costructor\obj\Debug\net8.0\parametarized costructor.dll
+E:\sample codes\parametarized costructor\parametarized costructor\obj\Debug\net8.0\refint\parametarized costructor.dll
+E:\sample codes\parametarized costructor\parametarized costructor\obj\Debug\net8.0\parametarized costructor.pdb
+E:\sample codes\parametarized costructor\parametarized costructor\obj\Debug\net8.0\parametarized costructor.genruntimeconfig.cache
+E:\sample codes\parametarized costructor\parametarized costructor\obj\Debug\net8.0\ref\parametarized costructor.dll

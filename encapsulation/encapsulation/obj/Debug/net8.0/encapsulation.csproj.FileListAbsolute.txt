@@ -1,0 +1,14 @@
+E:\sample codes\encapsulation\encapsulation\obj\Debug\net8.0\encapsulation.GeneratedMSBuildEditorConfig.editorconfig
+E:\sample codes\encapsulation\encapsulation\obj\Debug\net8.0\encapsulation.AssemblyInfoInputs.cache
+E:\sample codes\encapsulation\encapsulation\obj\Debug\net8.0\encapsulation.AssemblyInfo.cs
+E:\sample codes\encapsulation\encapsulation\obj\Debug\net8.0\encapsulation.csproj.CoreCompileInputs.cache
+E:\sample codes\encapsulation\encapsulation\bin\Debug\net8.0\encapsulation.exe
+E:\sample codes\encapsulation\encapsulation\bin\Debug\net8.0\encapsulation.deps.json
+E:\sample codes\encapsulation\encapsulation\bin\Debug\net8.0\encapsulation.runtimeconfig.json
+E:\sample codes\encapsulation\encapsulation\bin\Debug\net8.0\encapsulation.dll
+E:\sample codes\encapsulation\encapsulation\bin\Debug\net8.0\encapsulation.pdb
+E:\sample codes\encapsulation\encapsulation\obj\Debug\net8.0\encapsulation.dll
+E:\sample codes\encapsulation\encapsulation\obj\Debug\net8.0\refint\encapsulation.dll
+E:\sample codes\encapsulation\encapsulation\obj\Debug\net8.0\encapsulation.pdb
+E:\sample codes\encapsulation\encapsulation\obj\Debug\net8.0\encapsulation.genruntimeconfig.cache
+E:\sample codes\encapsulation\encapsulation\obj\Debug\net8.0\ref\encapsulation.dll

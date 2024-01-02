@@ -1,0 +1,14 @@
+E:\sample codes\object creation\object creation\bin\Debug\net8.0\object creation.exe
+E:\sample codes\object creation\object creation\bin\Debug\net8.0\object creation.deps.json
+E:\sample codes\object creation\object creation\bin\Debug\net8.0\object creation.runtimeconfig.json
+E:\sample codes\object creation\object creation\bin\Debug\net8.0\object creation.dll
+E:\sample codes\object creation\object creation\bin\Debug\net8.0\object creation.pdb
+E:\sample codes\object creation\object creation\obj\Debug\net8.0\object creation.GeneratedMSBuildEditorConfig.editorconfig
+E:\sample codes\object creation\object creation\obj\Debug\net8.0\object creation.AssemblyInfoInputs.cache
+E:\sample codes\object creation\object creation\obj\Debug\net8.0\object creation.AssemblyInfo.cs
+E:\sample codes\object creation\object creation\obj\Debug\net8.0\object creation.csproj.CoreCompileInputs.cache
+E:\sample codes\object creation\object creation\obj\Debug\net8.0\object creation.dll
+E:\sample codes\object creation\object creation\obj\Debug\net8.0\refint\object creation.dll
+E:\sample codes\object creation\object creation\obj\Debug\net8.0\object creation.pdb
+E:\sample codes\object creation\object creation\obj\Debug\net8.0\object creation.genruntimeconfig.cache
+E:\sample codes\object creation\object creation\obj\Debug\net8.0\ref\object creation.dll
